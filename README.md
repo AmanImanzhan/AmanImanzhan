@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Aman 👋
 
-<!--
-**AmanImazhan/AmanImazhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer from Georgia. I build REST APIs and backend services with Node.js and TypeScript.
 
-Here are some ideas to get you started:
+## Stack
+- **Languages:** TypeScript, JavaScript
+- **Backend:** Node.js, Express, REST APIs, JWT authentication
+- **Data:** PostgreSQL, Prisma ORM
+- **Tools:** Docker, Postman, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Mini-chat-API](https://github.com/AmanImazhan/Mini-chat-API)**: chat backend with JWT auth, conversations and messages (Express, Prisma, PostgreSQL)
+- **[WeatherApiFirst](https://github.com/AmanImazhan/WeatherApiFirst)**: layered Node.js API over OpenWeatherMap, with validation, error handling and Docker setup
+
+## Currently
+Working on a full-stack project with a live demo. Open to remote opportunities.
+
+## Contact
+- LinkedIn: [aman-imanzhan](https://www.linkedin.com/in/aman-imanzhan)
+- Email: imanzhan.aman@gmail.com
